@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0TfBB8mfYw9tk8q/TmKaDQIkbLUg+XV+whYDQps2Xcv20Cgo70YF93+jZuTkIQj5HZBWjiYeT5fqbkmocLD3xw==",
+  "dgSpecHash": "7CwLECLn7+2AZtjp+3hGTTX5eyO0EIC2aI6q4Psd8COHxfngHqPoL4PBFwS9gGr2Z9FYgyVUFhSQH7tZ1xBbPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tyzty\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+  "projectFilePath": "C:\\Users\\tyzty\\Desktop\\git\\932203.sotnikov.evgenii.lab15\\WebApplication4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tyzty\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tyzty\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

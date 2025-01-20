@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyzty\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {}
+    "C:\\Users\\tyzty\\Desktop\\git\\932203.sotnikov.evgenii.lab15\\WebApplication4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyzty\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {
+    "C:\\Users\\tyzty\\Desktop\\git\\932203.sotnikov.evgenii.lab15\\WebApplication4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyzty\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectUniqueName": "C:\\Users\\tyzty\\Desktop\\git\\932203.sotnikov.evgenii.lab15\\WebApplication4.csproj",
         "projectName": "WebApplication4",
-        "projectPath": "C:\\Users\\tyzty\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectPath": "C:\\Users\\tyzty\\Desktop\\git\\932203.sotnikov.evgenii.lab15\\WebApplication4.csproj",
         "packagesPath": "C:\\Users\\tyzty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyzty\\source\\repos\\WebApplication4\\WebApplication4\\obj\\",
+        "outputPath": "C:\\Users\\tyzty\\Desktop\\git\\932203.sotnikov.evgenii.lab15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyzty\\AppData\\Roaming\\NuGet\\NuGet.Config",
